@@ -961,6 +961,7 @@ span.active::after {
 }
 
 .contacts {
+    padding-left: 15px;
     font-size: 28px;
     font-style: normal;
     font-weight: normal;
@@ -986,7 +987,7 @@ span.active::after {
     height: 24px;
     position: absolute;
     top: 20%;
-    left: 0%;
+    left: -5%;
     background: url(../images/contacts/ins.svg);
 }
 
@@ -1000,7 +1001,7 @@ span.active::after {
     height: 24px;
     position: absolute;
     top: 20%;
-    left: 0%;
+    left: -5%;
     background: url(../images/contacts/phone.svg);
 }
 
@@ -1014,7 +1015,7 @@ span.active::after {
     height: 24px;
     position: absolute;
     top: 20%;
-    left: 0%;
+    left: -5%;
     background: url(../images/contacts/emai.svg);
 }
 
